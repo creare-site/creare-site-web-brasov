@@ -10,7 +10,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 ## Informatii produs
 
-- Site de prezentare - Visualize
+- Site de prezentare - Site Web Brasov
 - Live [DEMO](https://creare-site-web-brasov.websitemarket.ro)
  
 <br />
